@@ -54,7 +54,7 @@ The networking for these nodes are configured through [MOC2-R4PCC06-SW-TORS-A](h
 |     Node Name      | Resource Class | IPMI Address |       Networking      | Purpose                  |
 | ------------------ | -------------- | ------------ | --------------------- | ------------------------ |
 | MOC-R4PCC06U01-N01 | sd530          | 10.2.22.51   | NIC1: 911             | FIPS Build Host          |
-| MOC-R4PCC06U01-N02 | sd530          | 10.2.22.52   |                       |                          |
+| MOC-R4PCC06U01-N02 | sd530          | 10.2.22.52   | NIC1: 224             | BU IST Demo Workload     |
 | MOC-R4PCC06U01-N03 | sd530          | 10.2.22.53   |                       |                          |
 | MOC-R4PCC06U01-N04 | sd530          | 10.2.22.54   |                       |                          |
 | MOC-R4PCC06U03-N01 | sd530          | 10.2.22.61   |                       |                          |
